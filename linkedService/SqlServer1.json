@@ -1,0 +1,21 @@
+{
+	"name": "SqlServer1",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "SqlServer",
+		"typeProperties": {
+			"server": "DESKTOP-40U6G1H\\SQLEXPRESS",
+			"database": "layoffs ",
+			"encrypt": "mandatory",
+			"trustServerCertificate": true,
+			"authenticationType": "SQL",
+			"userName": "haykay",
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiJkYTc3YzU4OS1kMWRlLTRlYjYtYjU2MC01MGYxY2IxMWExMTUiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+		},
+		"connectVia": {
+			"referenceName": "integrationRuntimeshared",
+			"type": "IntegrationRuntimeReference"
+		}
+	}
+}
