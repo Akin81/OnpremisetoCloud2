@@ -1,0 +1,12 @@
+{
+	"name": "integrationRuntimeshared",
+	"properties": {
+		"type": "SelfHosted",
+		"typeProperties": {
+			"linkedInfo": {
+				"resourceId": "/subscriptions/c06cbecb-9926-44b3-a683-856c4074c951/resourcegroups/sarafadin01/providers/Microsoft.DataFactory/factories/sarafadindf01/integrationruntimes/integrationRuntime1",
+				"authorizationType": "Rbac"
+			}
+		}
+	}
+}
