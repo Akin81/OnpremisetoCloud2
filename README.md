@@ -21,7 +21,9 @@ Build an end-to-end pipeline that:
 7.	Built an interactive Power BI report showing key metrics.
 # WHY THIS MATTERS
 •	Eliminated manual work: Automated ingestion → insights.
+
 •	Improved trust: Consistent data types and enforced quality checks.
+
 •	Scalable foundation: Ready for future data growth.
 
 
