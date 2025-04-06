@@ -13,13 +13,14 @@ Build an end-to-end pipeline that:
 •	Connect to Power BI for visualization.
 •	Create an interactive dashboard showing Top 10 Companies and countries affected by layoffs, and funding received between 2020 and 2023.
 # MY STEP-BY-STEP SOLUTION
-1.	I created linked services and datasets in Azure Data Factory to connect to SQL Server.
-2.	Pulled data from SQL Server using a self-hosted integration runtime.
-3.	Ingested data into the raw Azure Blob Storage container.
-4.	Mounted Databricks to Azure Blob Storage using access keys.
-5.	Transformed the data in Databricks by correcting data types, handling duplicates and null values, and resolving other inconsistencies.
-6.	Wrote the clean data back to the transformed layer in Blob Storage.
-7.	Built an interactive Power BI report showing key metrics.
+1.  I created a resource group, storage account, and containers
+2.	I created linked services and datasets in Azure Data Factory to connect to SQL Server.
+3.	Pulled data from SQL Server using a self-hosted integration runtime.
+4.	Ingested data into the raw Azure Blob Storage container.
+5.	Mounted Databricks to Azure Blob Storage using access keys.
+6.	Transformed the data in Databricks by correcting data types, handling duplicates and null values, and resolving other inconsistencies.
+7.	Wrote the clean data back to the transformed layer in Blob Storage.
+8.	Built an interactive Power BI report showing key metrics.
 # WHY THIS MATTERS
 •	Eliminated manual work: Automated ingestion → insights.
 
