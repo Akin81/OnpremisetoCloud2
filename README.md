@@ -1,3 +1,5 @@
+![layoff_page-0002](https://github.com/user-attachments/assets/24d62c9b-388a-4f98-a1dd-10e2c13265ce)
+![DIAGRAM](https://github.com/user-attachments/assets/a005032a-de01-4d6a-bd0a-6660e7ff6823)
 # MOVING DATA FROM ON-PREMISE SQL SERVER TO AZURE CLOUD STORAGE FOR ANALYSIS: AN END-TO-END AZURE DATA ENGINEERING PROJECT
 While I enjoy building dashboards and uncovering hidden insights to support data-driven decisions, every Business Intelligence Analyst should also master end-to-end data engineering solutions. This not only accelerates business intelligence operations but also adds valuable skills to your professional toolkit. This weekend, I built a scalable Azure data engineering pipeline to transform raw layoff data into actionable insights. Here’s how I did it:
 # PROBLEM STATEMENT
