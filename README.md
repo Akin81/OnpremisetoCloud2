@@ -32,7 +32,8 @@ Tech Stack: Azure Data Factory, Databricks (PySpark), Blob Storage, Power BI
 
 #DataEngineering #Azure #BusinessIntelligence #ETL #DataAnalytics
 
-![layoff_page-0002](https://github.com/user-attachments/assets/24d62c9b-388a-4f98-a1dd-10e2c13265ce)
+
 ![DIAGRAM](https://github.com/user-attachments/assets/a005032a-de01-4d6a-bd0a-6660e7ff6823)
+![layoff_page-0002](https://github.com/user-attachments/assets/24d62c9b-388a-4f98-a1dd-10e2c13265ce)
 
 
