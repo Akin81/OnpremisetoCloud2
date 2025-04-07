@@ -8,7 +8,7 @@ Your company collects layoff data from various on-premises sources but struggles
 3.	Data inconsistencies – Raw data issues affect analysis, with no dashboard to track trends.
 # THE TASK
 Build an end-to-end pipeline that:
-•	Ingest and transform data Databricks.
+•	Ingest and transform data with Databricks.
 •	Store processed data in query-optimized Parquet format.
 •	Connect to Power BI for visualization.
 •	Create an interactive dashboard showing Top 10 Companies and countries affected by layoffs, and funding received between 2020 and 2023.
